@@ -8,3 +8,5 @@ Some content
 ## Changes
 
 1. Open index.html in your browser
+2. Click on the button
+
